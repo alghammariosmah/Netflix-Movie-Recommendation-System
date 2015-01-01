@@ -18,6 +18,7 @@ for line in open_file:
 dictionary1=dict()
 
 lista=[]
+"""c"""
 
 for number in xrange(11):
 
